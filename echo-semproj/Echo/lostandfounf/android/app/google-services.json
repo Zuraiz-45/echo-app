@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999410684871",
+    "project_id": "rao-echo-app",
+    "storage_bucket": "rao-echo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999410684871:android:138d05924ae7a3a9d07fe2",
+        "android_client_info": {
+          "package_name": "com.example.lostandfounf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7WQkhQMlVnbFcGZNRT5OBriQ89I1pCDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
